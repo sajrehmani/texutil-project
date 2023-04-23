@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/texutil-project/static/css/main.e6c13ad2.css",
+    "main.js": "/texutil-project/static/js/main.77d9da08.js",
+    "static/js/787.a8e47b61.chunk.js": "/texutil-project/static/js/787.a8e47b61.chunk.js",
+    "index.html": "/texutil-project/index.html",
+    "main.e6c13ad2.css.map": "/texutil-project/static/css/main.e6c13ad2.css.map",
+    "main.77d9da08.js.map": "/texutil-project/static/js/main.77d9da08.js.map",
+    "787.a8e47b61.chunk.js.map": "/texutil-project/static/js/787.a8e47b61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.77d9da08.js"
+  ]
+}
